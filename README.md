@@ -2,9 +2,8 @@
 
 <p align="center">Love the project? Please consider <a href="https://www.paypal.me/carljeromee">donating</a> to help it improve!</p>
 
-**Bonus Demo**
-In this link you can find the final project:
-https://codekaito-3d-carousel.netlify.app/
+#### Click to the site below for the final project
+[Live Site](https://codekaito-3d-carousel.netlify.app/)
 
 ![image](https://user-images.githubusercontent.com/57111980/212078529-ab5dd2d2-aa25-42c5-b2f2-5a104891921e.png)
 
