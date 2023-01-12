@@ -6,6 +6,8 @@
 In this link you can find the final project:
 https://codekaito-3d-carousel.netlify.app/
 
+![image](https://user-images.githubusercontent.com/57111980/212078529-ab5dd2d2-aa25-42c5-b2f2-5a104891921e.png)
+
 
 # How to play
 Just **Dragggggggg** your mouse (or your hand) on the screen
