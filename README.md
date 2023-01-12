@@ -2,7 +2,10 @@
 
 <p align="center">Love the project? Please consider <a href="https://www.paypal.me/carljeromee">donating</a> to help it improve!</p>
 
-**Bonus Demo** [Here (3DTweenMax.html)](https://hoangtran0410.github.io/3DCarousel/3DTweenMax.html)
+**Bonus Demo**
+In this link you can find the final project:
+https://codekaito-3d-carousel.netlify.app/
+
 
 # How to play
 Just **Dragggggggg** your mouse (or your hand) on the screen
